@@ -1,4 +1,4 @@
-pip install textblob
+!pip install textblob
 from textblob import TextBlob
 import pandas as pd
 import streamlit as st
